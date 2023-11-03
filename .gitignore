@@ -1,0 +1,11 @@
+# Python Compiled files
+*.pyc
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+
+# model weight
+*.pth
+*.pt
